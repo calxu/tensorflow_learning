@@ -1,5 +1,7 @@
-*.ipynb_checkpoints
-*.zip
-
-*logs*
-*models*
+experts/code_sample/chapter-2/.ipynb_checkpoints/tf_data-checkpoint.ipynb
+experts/code_sample/chapter-2/.ipynb_checkpoints/mnist_model-checkpoint.png
+experts/code_sample/chapter-2/files/.ipynb_checkpoints/butler-checkpoint.txt
+experts/code_sample/chapter-2/files/.ipynb_checkpoints/derby-checkpoint.txt
+.DS_Store
+experts/.DS_Store
+experts/code_sample/chapter-2/.ipynb_checkpoints/try_01-checkpoint.ipynb
